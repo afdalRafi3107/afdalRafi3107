@@ -1,50 +1,11 @@
-# 👋 Halo, Saya [Nama Anda]!
+<h1 align="center">Hi 👋, I'm Muhammad Afdal Rafi</h1>
+<h3 align="center">I am a Fullstack Web Developer focused on building web-based applications that are functional, intuitive, and scalable. I have applied my skills in various projects, utilizing a modern tech stack such as React, Next.js, Express.js, TypeScript, and Prisma. I genuinely enjoy the problem-solving process and always strive to enhance application quality through clean code implementation and database optimization. I am enthusiastic about continuously learning and adapting to new challenges and technologies. I am currently open to work for Fullstack / Frontend / Backend Developer opportunities.</h3>
 
-![Tech Banner](https://raw.githubusercontent.com/username/username/main/assets/your-banner-image.png)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad afdal rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad afdal rafi" height="30" width="40" /></a>
+<a href="https://medium.com/@afdalrafi990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@afdalrafi990" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-    <a href="[LINK KE LINKEDIN ANDA]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="[LINK KE TWITTER/X ANDA]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-    <a href="[LINK KE WEBSITE/PORTFOLIO ANDA]"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=link&logoColor=white" /></a>
-</div>
-
----
-
-### 🚀 Tentang Saya (About Me)
-
-* Saya adalah seorang **[Jabatan/Spesialisasi Anda]** yang berfokus pada **[Bidang Fokus Anda, misalnya: Backend Development atau Data Science]**.
-* Saya saat ini sedang aktif belajar **[Teknologi yang sedang dipelajari]** dan selalu mencari tantangan baru.
-* Memiliki pengalaman [Jumlah Tahun] tahun dalam **[Keahlian Kunci 1]** dan **[Keahlian Kunci 2]**.
-* Saya bersemangat dalam membangun solusi yang **skalabel, efisien, dan memiliki dampak nyata**.
-* Mari terhubung! Anda bisa melihat Resume saya [di sini]([LINK KE RESUME ANDA]).
-
----
-
-### ⚙️ Keahlian & Teknologi (Tech Stack)
-
-#### Bahasa Pemrograman (Programming Languages)
-* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-* <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-#### Framework & Library
-* <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-* <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-* <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-#### Database & Tools
-* <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-* <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-* <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-* <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
----
-
-### 📊 Statistik GitHub Saya
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[USERNAME GITHUB ANDA]&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME GITHUB ANDA]&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🐍 Riwayat Kontribusi
-![Snake animation](https://github.com/[USERNAME GITHUB ANDA]/[USERNAME GITHUB ANDA]/blob/main/github-contribution-grid-snake.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
