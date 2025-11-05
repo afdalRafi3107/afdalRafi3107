@@ -1,23 +1,50 @@
-# 💫 About Me:
-🎓 I graduated with a Bachelor’s Degree in Computer Science from Institut Teknologi Padang<br>💻 I’m currently learning Full Stack Web Development, focusing on Frontend Development.<br>🚀 I have completed several projects that helped me gain hands-on experience in building modern web applications.<br>🧠 I’m passionate about creating scalable and efficient applications with clean and maintainable code.<br>🌱 I love learning new technologies and improving my problem-solving skills every day.<br>💼 I’m currently open to new job opportunities.
+# 👋 Halo, Saya [Nama Anda]!
 
+![Tech Banner](https://raw.githubusercontent.com/username/username/main/assets/your-banner-image.png)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mafdalrafi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afdalrafi660@gmail.com) 
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afdalRafi3107&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+    <a href="[LINK KE LINKEDIN ANDA]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="[LINK KE TWITTER/X ANDA]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="[LINK KE WEBSITE/PORTFOLIO ANDA]"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=link&logoColor=white" /></a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=afdalRafi3107&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/afdalrafi990) 
+### 🚀 Tentang Saya (About Me)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* Saya adalah seorang **[Jabatan/Spesialisasi Anda]** yang berfokus pada **[Bidang Fokus Anda, misalnya: Backend Development atau Data Science]**.
+* Saya saat ini sedang aktif belajar **[Teknologi yang sedang dipelajari]** dan selalu mencari tantangan baru.
+* Memiliki pengalaman [Jumlah Tahun] tahun dalam **[Keahlian Kunci 1]** dan **[Keahlian Kunci 2]**.
+* Saya bersemangat dalam membangun solusi yang **skalabel, efisien, dan memiliki dampak nyata**.
+* Mari terhubung! Anda bisa melihat Resume saya [di sini]([LINK KE RESUME ANDA]).
+
+---
+
+### ⚙️ Keahlian & Teknologi (Tech Stack)
+
+#### Bahasa Pemrograman (Programming Languages)
+* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+* <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+#### Framework & Library
+* <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+* <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+* <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+#### Database & Tools
+* <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+* <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+* <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+* <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+---
+
+### 📊 Statistik GitHub Saya
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[USERNAME GITHUB ANDA]&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME GITHUB ANDA]&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🐍 Riwayat Kontribusi
+![Snake animation](https://github.com/[USERNAME GITHUB ANDA]/[USERNAME GITHUB ANDA]/blob/main/github-contribution-grid-snake.svg)
