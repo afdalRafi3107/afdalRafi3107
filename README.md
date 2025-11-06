@@ -1,7 +1,7 @@
 <picture>
   <h2 id="hi-im-ifeanyi-nneji">Hi, I’m Muhammad Afdal rafi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;Long+Life+Learner"></a>
 </p>
 <p>
 🎓 I graduated with a Bachelor’s Degree in Computer Science from Institut Teknologi Padang<br>💻 I’m currently learning Full Stack Web Development, focusing on Frontend Development.<br>🚀 I have completed several projects that helped me gain hands-on experience in building modern web applications.<br>🧠 I’m passionate about creating scalable and efficient applications with clean and maintainable code.<br>🌱 I love learning new technologies and improving my problem-solving skills every day.<br>💼 I’m currently open to new job opportunities.
@@ -81,16 +81,14 @@
 
 </p>
 <h2 id="github-stats">Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary>💻 GitHub Profile Stats</summary>
   <br>
-  <p align="center">
+  <p align="left">
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afdalRafi3107&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" alt="afdalRafi3107" height="192px">
   <br>
   </p>
 <br>
-<h2 id="github-trophies">🏆GitHub Trophies</h2>
-<p><img src="https://github-profile-trophy.vercel.app/?username=afdalRafi3107&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
 <hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example">
