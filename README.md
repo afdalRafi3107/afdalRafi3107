@@ -94,5 +94,3 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example">
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/afdalRafi3107">afdalRafi3107</a></p>
-<p>Last Edited on: 4/30/2022</p> 
