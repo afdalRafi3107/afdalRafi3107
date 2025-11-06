@@ -1,12 +1,29 @@
-<picture>
-  <h2 id="hi-im-ifeanyi-nneji">Hi, I’m Muhammad Afdal rafi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;Long+Life+Learner"></a>
+<!-- 👋 Introduction -->
+<h2 align="center">Hi, I’m Muhammad Afdal Rafi 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00ADEF&size=22&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;Long+Life+Learner">
+  </a>
 </p>
-<p>
-🎓 I graduated with a Bachelor’s Degree in Computer Science from Institut Teknologi Padang<br>💻 I’m currently learning Full Stack Web Development, focusing on Frontend Development.<br>🚀 I have completed several projects that helped me gain hands-on experience in building modern web applications.<br>🧠 I’m passionate about creating scalable and efficient applications with clean and maintainable code.<br>🌱 I love learning new technologies and improving my problem-solving skills every day.<br>💼 I’m currently open to new job opportunities.
+
+<p align="center">
+🎓 Graduated with a Bachelor’s Degree in Computer Science from Institut Teknologi Padang<br>
+💻 Currently learning Full Stack Web Development, focusing on Frontend Development<br>
+🚀 Completed several projects that helped me gain hands-on experience in modern web development<br>
+🧠 Passionate about creating scalable and efficient applications with clean, maintainable code<br>
+🌱 Constantly learning new technologies and improving problem-solving skills<br>
+💼 Open to new job opportunities and collaborations
 </p>
-<h2 id="tech-stack">Tech Stack<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h2>
+
+---
+
+<h2 align="center">🛠️ Tech Stack 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+</h2>
+
 <p align="center">
 
   <!-- 🧠 PROGRAMMING LANGUAGES -->
@@ -80,17 +97,27 @@
   </a>
 
 </p>
-<h2 id="github-stats">Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br>
-  <p align="left">
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afdalRafi3107&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" alt="afdalRafi3107" height="192px">
-  <br>
-  </p>
-<br>
-<hr>
+
+---
+
+<h2 align="center">📊 GitHub Stats 
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px">
+</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afdalRafi3107/afdalRafi3107/main/resources/img/github-contribution-grid-snake.svg" alt="example">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afdalRafi3107&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="afdalRafi3107" height="192px">
 </p>
-<hr>
+
+---
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afdalRafi3107/afdalRafi3107/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afdalRafi3107/afdalRafi3107/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/afdalRafi3107/afdalRafi3107/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
