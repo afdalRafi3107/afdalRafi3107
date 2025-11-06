@@ -10,12 +10,17 @@
 </p>
 
 <p align="center">
-🎓 Graduated with a Bachelor’s Degree in Computer Science from Institut Teknologi Padang<br>
-💻 Currently learning Full Stack Web Development, focusing on Frontend Development<br>
-🚀 Completed several projects that helped me gain hands-on experience in modern web development<br>
-🧠 Passionate about creating scalable and efficient applications with clean, maintainable code<br>
-🌱 Constantly learning new technologies and improving problem-solving skills<br>
-💼 Open to new job opportunities and collaborations
+I graduated with a Bachelor’s Degree in Computer Science from Institut Teknologi Padang. My journey in programming started with simple curiosity — learning how websites work — and slowly turned into a genuine passion for building things that people can actually use.
+
+💻 I’m currently focusing on Full Stack Web Development, especially the frontend side, where I enjoy turning ideas into real products through clean code and structured thinking.
+
+🚀 Over time, I’ve completed several projects that helped me gain hands-on experience with modern web technologies, problem-solving, and collaboration.
+
+🧠 I’m passionate about creating scalable and efficient applications, and I love writing code that’s not just functional — but also maintainable and easy to understand.
+
+🌱 Every day, I try to learn something new — whether it’s a framework, a design pattern, or just a better way to write code.
+
+💼 I’m currently open to new opportunities and collaborations, especially in projects that challenge me to grow and make an impact.
 </p>
 
 ---
