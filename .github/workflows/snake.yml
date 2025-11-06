@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # jalankan otomatis setiap hari
-    - cron: "0 0 * * *"
-  workflow_dispatch: # bisa dijalankan manual juga
+  schedule:
+    - cron: "0 0 * * *"  # otomatis tiap hari
+  workflow_dispatch:      # bisa dijalankan manual
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: afdalRaf3107
+          github_user_name: afdalRafi3107
           outputs: dist/snake.svg
 
       - name: Push to output branch
